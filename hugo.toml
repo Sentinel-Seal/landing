@@ -1,0 +1,7 @@
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+baseURL = 'https://sentinelseal.com/'
+title = 'Sentinel Seal'
+languageCode = 'en-us'
+
